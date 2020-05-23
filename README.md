@@ -1,6 +1,6 @@
 # Capstone Project - Bladeless Wind Turbine GUI
 
-The following image shows the final device. The metal cylinder is the mast which oscillates in cross-flow wind and there is coil at the bottom of the mast which generates emf when oscillated over the magnet present underneath. The emf is amplified by op-amps and the oscillation angle is captured by the potentiometer attached to the mast's pivot point. This data is captured by Arduino and the GUI fetches the data and saves/displays it in real-time. 
+Following is the image of the final device. The metal cylinder is the mast which oscillates in cross-flow wind and there is a coil at the bottom of the mast which generates emf when oscillated over a permanent magnet present underneath. The emf is amplified by op-amps and the oscillation angle is determined by the potentiometer attached to the mast's pivot point. This data is captured by Arduino and the GUI fetches the data and saves and displays it in real-time. 
 
 <img src = "https://github.com/rish01/MECH458_Bladeless_Wind_Turbine/blob/master/images/IMG_7266.JPG" height = 700>
 
