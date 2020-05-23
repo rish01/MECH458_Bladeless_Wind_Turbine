@@ -1,0 +1,16 @@
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\bin\Debug\BWT_GUI.exe
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\bin\Debug\BWT_GUI.pdb
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.csprojAssemblyReference.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.Form1.resources
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.Properties.Resources.resources
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.csproj.GenerateResource.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.csproj.CoreCompileInputs.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.exe
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Debug\BWT_GUI.pdb
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.csprojAssemblyReference.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.Form1.resources
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.Properties.Resources.resources
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.csproj.GenerateResource.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.csproj.CoreCompileInputs.cache
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.exe
+D:\REPOS\MECH458_Bladeless_Wind_Turbine\BWT_GUI\obj\x86\Debug\BWT_GUI.pdb

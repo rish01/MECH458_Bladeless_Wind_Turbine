@@ -1,0 +1,36 @@
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.GenerateResource.Cache
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csprojResolveAssemblyReference.cache
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csprojAssemblyReference.cache
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.GenerateResource.cache
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.CoreCompileInputs.cache
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+E:\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csprojAssemblyReference.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.GenerateResource.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.CoreCompileInputs.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\MECH423 DC Motor Position Hold\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csprojAssemblyReference.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.GenerateResource.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\Sensor Analysis.csproj.CoreCompileInputs.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb

@@ -1,0 +1,45 @@
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csprojAssemblyReference.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.GenerateResource.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.CoreCompileInputs.cache
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 45X\Arduino Sketches\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csprojAssemblyReference.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.GenerateResource.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csprojAssemblyReference.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.GenerateResource.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\BWT_GUI.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csprojAssemblyReference.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csproj.GenerateResource.cache
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csproj.CoreCompileInputs.cache
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csprojAssemblyReference.cache
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.Properties.Resources.resources
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csproj.GenerateResource.cache
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.csproj.CoreCompileInputs.cache
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.Form1.resources
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\bin\Release\BWT_GUI.exe
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\bin\Release\BWT_GUI.pdb
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.exe
+C:\Users\risha\OneDrive\Desktop\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\bin\Release\BWT_GUI.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\bin\Release\BWT_GUI.pdb
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.Form1.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.exe
+D:\Course Material\Mech 4\Mech 45X\Github Code Files\Bladeless_Wind_Turbine\BWT_GUI\BWT_GUI\obj\x86\Release\BWT_GUI.pdb
