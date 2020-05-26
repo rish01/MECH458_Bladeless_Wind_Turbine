@@ -11,6 +11,6 @@ In order to use the GUI, simply run the BWT_GUI.exe file located in [BWT_GUI/bin
 2. Fetches the amplified analog values of emf and current generated in the coil by the oscillatory motion of the magnet over the coil.
 3. Displays the angular position and emf generated on a plot in real-time. 
 4. Adds bias up and down arrows to zero point calibrate the position and emf.
-5. Provides user the ability to save the data to a csv file of user-defined name.
+5. Provides user the ability to save the data in a csv file of user-defined name.
 
 <img src = "https://github.com/rish01/MECH458_Bladeless_Wind_Turbine/blob/master/images/Bladeless_Wind_Turbine_GUI.png" width = 800>
